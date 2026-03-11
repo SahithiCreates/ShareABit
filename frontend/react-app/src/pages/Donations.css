@@ -1,0 +1,38 @@
+.donations-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+.donations-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 24px;
+  color: black;
+}
+
+.donations-actions {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 28px;
+}
+
+.primary-btn {
+  background: black;
+  color: white;
+}
+
+
+.link-btn {
+  background: black;
+  color: white;
+}
+
+.donations-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+}
+
+
+

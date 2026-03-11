@@ -1,0 +1,38 @@
+.mydonations-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+.mydonations-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.mydonations-header h2{
+  color: black;
+} 
+
+
+.mydonations-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+}
+
+.empty-text {
+  text-align: center;
+  color: #64748b;
+  margin-top: 40px;
+}
+
+.back-btn{
+  background: black;
+  color: white;
+}
+
+
+
+
