@@ -36,7 +36,7 @@ Frontend (React)
 * Secure login/signup
 * Role-based access (**Donor / NGO / Volunteer**)
 
----
+
 
 ### 🍲 Food Donation System
 
@@ -44,7 +44,7 @@ Frontend (React)
 * Include quantity, location, and expiry info
 * Easy listing and management
 
----
+
 
 ### 🤝 Claim & Distribution
 
@@ -52,7 +52,7 @@ Frontend (React)
 * Claim food based on availability and location
 * Prevents duplicate claims
 
----
+
 
 ### 📍 Status Tracking
 
@@ -60,7 +60,7 @@ Frontend (React)
   **Pending → Accepted → Completed**
 * Ensures transparency in distribution
 
----
+
 
 ### 📊 Dashboards
 
@@ -73,15 +73,12 @@ Frontend (React)
 ## ⚙️ Tech Stack
 
 **Frontend:** React.js, Tailwind CSS
+
 **Backend:** Node.js (Express.js)
+
 **Database:** MongoDB
+
 **Authentication:** JWT
-
----
-
-## 📸 Preview
-
-(Add screenshots: donation listing, dashboard, claim flow)
 
 ---
 
@@ -91,15 +88,6 @@ Frontend (React)
 * Location-based matching (maps integration)
 * Expiry-based prioritization
 * Rating system for NGOs and donors
-
----
-
-## 🧠 Key Highlights
-
-* **Real-world social impact project**
-* Clean role-based workflow design
-* Efficient food redistribution system
-* Focus on simplicity and usability
 
 ---
 
