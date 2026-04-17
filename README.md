@@ -1,4 +1,4 @@
-# 🍱 ShareABit– Food Donation & Distribution Platform
+# 🍱 ShareABit–  Food Donation Coordination Platform
 
 FoodMatch is a full-stack platform designed to **connect food donors with NGOs and volunteers**, enabling efficient redistribution of surplus food to those in need.
 
